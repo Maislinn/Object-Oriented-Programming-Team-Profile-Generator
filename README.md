@@ -1,9 +1,8 @@
 # Object-Oriented-Programming-Team-Profile-Generator
-Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. 
 
- 
-## Decription
- 
+[![Contributors](https://img.shields.io/badge/Collaborator-MAISLINN-blue)](https://github.com/Maislinn)
+![license](https://img.shields.io/badge/license-MIT-yellow)
+## Description
 Building a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. 
 
 GIVEN a command-line application that accepts user input
@@ -23,59 +22,62 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
- 
- 
-## Table of Contents (Optional)
- 
- 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
- 
-## Installation
- 
-Because this Challenge will require the use of the `Inquirer` package, ensure that you install and use Inquirer version 8.2.4. To do so, use the following command in your project folder: `npm i inquirer@8.2.4`.
- 
-## Usage
- 
-Provide instructions and examples for use. Include screenshots as needed.
- 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
- 
-![alt text](assets/images/screenshot.png)
- 
-## Credits
- 
-List your collaborators, if any, with links to their GitHub profiles.
- 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
- 
-If you followed tutorials, include links to those here as well.
- 
-## License
- 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
- 
----
- 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
- 
-## Badges
- 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
- 
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
- 
-## Features
 
-- Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
-- Uses the [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests.
- 
-## How to Contribute
- 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
- 
-## Tests
- 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+In this project I was able to practice my skills in models and routes. 
+## Table of Contents
+ * [Installation](#installation)
+ * [Usage](#usage)
+ * [Features](#features)
+ * [Credits](#credits)
+ * [License](#license)
+ * [Contributing](#contributing)
+
+
+## Installation
+- node.js
+- MySQL
+- inquirer
+
+## Usage
+To use this REPO:
+   1. Open the integrated terminal window
+   2. Run your installations with NPM I
+   
+## Features
+- Node.js
+
+## Credits
+- UC Berkeley Extension 2023
+- [GitHub](https://docs.github.com/en)
+- [Stackoverflow](https://stackoverflow.com/)
+
+
+## License
+
+
+![license](https://img.shields.io/badge/license-MIT-yellow)
+Distributed under the [MIT License](https://opensource.org/license/mit/). See [LICENSE.txt](/LICENSE) for more information.
+## Badges
+
+
+![license](https://img.shields.io/badge/license-MIT-yellow)
+[![Contributors](https://img.shields.io/badge/Collaborator-MAISLINN-blue)](https://github.com/Maislinn)
+
+
+## Contributing
+As a UC Berkeley student and tech professional, I want to continue to learn and create effective code. Please feel free to contribute your ideas and code by reaching out to me or follow the steps below to submit a pull request for approval.
+
+
+   1. Fork this Repo (https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+   2. Create your Branch (git checkout -b) (https://www.git-scm.com/docs/gittutorial/2.8.6)
+   3. Make your own Adjustments
+   4. Commit your changes (git commit -m "") (https://www.git-scm.com/docs/gittutorial/2.8.6) 
+   5. Push to the branch (https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-push-new-branch-remote-github-gitlab-upstream-example)
+   6. Open a pull request on GitHub (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+
+
+
+Maislinn Helfer | Github @maislinn
+
+
