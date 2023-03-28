@@ -42,6 +42,7 @@ In this project I was able to practice my skills in models and routes.
 To use this REPO:
    1. Open the integrated terminal window
    2. Run your installations with NPM I
+   3. Fill in the prompted questions
    
 ## Features
 - Node.js
