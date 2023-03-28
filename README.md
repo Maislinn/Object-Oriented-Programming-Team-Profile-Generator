@@ -23,7 +23,8 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-In this project I was able to practice my skills in models and routes. 
+In this project I was able to practice my skills in MySQL. 
+
 ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
