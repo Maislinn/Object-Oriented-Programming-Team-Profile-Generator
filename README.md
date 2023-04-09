@@ -43,6 +43,7 @@ In this project I was able to practice my tests and JS skills.
 
 ## Usage
 To use this REPO:
+(Demo in Assets Folder)
    1. Open the integrated terminal window
    2. Run your installations with NPM I
    3. Fill in the prompted questions
