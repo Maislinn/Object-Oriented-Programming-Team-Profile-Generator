@@ -3,7 +3,10 @@
 [![Contributors](https://img.shields.io/badge/Collaborator-MAISLINN-blue)](https://github.com/Maislinn)
 ![license](https://img.shields.io/badge/license-MIT-yellow)
 ## Description
-Building a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. 
+```text
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
@@ -22,8 +25,7 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
-
-In this project I was able to practice my skills in MySQL. 
+```
 
 ## Table of Contents
  * [Installation](#installation)
@@ -36,7 +38,6 @@ In this project I was able to practice my skills in MySQL.
 
 ## Installation
 - node.js
-- MySQL
 - inquirer
 
 ## Usage
@@ -47,18 +48,21 @@ To use this REPO:
    
 ## Features
 - Node.js
+- Jest Package 
+- Inquirer Package
 
 ## Credits
 - UC Berkeley Extension 2023
 - [GitHub](https://docs.github.com/en)
 - [Stackoverflow](https://stackoverflow.com/)
+- Trying out [JSDelivr](https://www.jsdelivr.com/about)
 
 
 ## License
 
-
 ![license](https://img.shields.io/badge/license-MIT-yellow)
 Distributed under the [MIT License](https://opensource.org/license/mit/). See [LICENSE.txt](/LICENSE) for more information.
+
 ## Badges
 
 
